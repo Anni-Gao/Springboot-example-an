@@ -15,6 +15,7 @@
     </properties>
     <modules>
         <module>mybatis-examples</module>
+        <module>spring-examples</module>
     </modules>
 
 </project>
